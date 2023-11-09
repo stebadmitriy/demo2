@@ -6,5 +6,6 @@ public class Runner {
 		System.out.println("Hello World! I am Dmitriy!!!!");
 		System.out.println("Hello World!");
 		System.out.println("Здравствуйте!");
+		System.out.println("Good buy!");
 	}
 }
